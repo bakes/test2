@@ -1,0 +1,7 @@
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/edu/uidaho/test3/ApplicationStylesheet.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/edu/uidaho/test3/R.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/edu/uidaho/test3/Test3Activity.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/edu/uidaho/test3/Test3AppInfo.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/edu/uidaho/test3/Test3Application.java"
+"C:/Users/leveleth/Documents/Titanium_Studio_Workspace/test3/build/android/gen/ti/modules/titanium/ui/R.java"
